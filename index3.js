@@ -1,5 +1,4 @@
 const fs = require("fs")
-const valueText = "61twoninebbsbqsbhtxmxkffspd"
 var firstNumber = ""
 var lastNumber = ""
 var firstNumberIndex = 1000
